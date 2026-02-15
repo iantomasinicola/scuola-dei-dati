@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/scuola-dei-dati/static/css/main.e6c13ad2.css",
-    "main.js": "/scuola-dei-dati/static/js/main.4d813d48.js",
+    "main.js": "/scuola-dei-dati/static/js/main.ba333425.js",
     "static/js/453.6d5a906c.chunk.js": "/scuola-dei-dati/static/js/453.6d5a906c.chunk.js",
     "index.html": "/scuola-dei-dati/index.html",
     "main.e6c13ad2.css.map": "/scuola-dei-dati/static/css/main.e6c13ad2.css.map",
-    "main.4d813d48.js.map": "/scuola-dei-dati/static/js/main.4d813d48.js.map",
+    "main.ba333425.js.map": "/scuola-dei-dati/static/js/main.ba333425.js.map",
     "453.6d5a906c.chunk.js.map": "/scuola-dei-dati/static/js/453.6d5a906c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4d813d48.js"
+    "static/js/main.ba333425.js"
   ]
 }
